@@ -1,4 +1,4 @@
----
+--
 
 ```markdown
 # 🧭 Gestor-de-Archivos | File Manager
@@ -6,7 +6,7 @@
 A Python console tool that helps you **search, analyze, and manage files** safely — with drive detection, Defender integration, and smart heuristics.  
 Una herramienta en Python que te permite **buscar, analizar y gestionar archivos** de forma rápida y segura.
 
----
+--
 
 <details>
 <summary>🇪🇸 Español</summary>
@@ -17,7 +17,7 @@ Una herramienta en Python que te permite **buscar, analizar y gestionar archivos
 
 Detecta automáticamente tus discos, realiza búsquedas exhaustivas con barra de progreso, analiza archivos con Microsoft Defender y usa heurísticas para detectar posibles archivos maliciosos antes de abrirlos.
 
----
+--
 
 ## 🚀 Características principales
 
@@ -31,7 +31,7 @@ Detecta automáticamente tus discos, realiza búsquedas exhaustivas con barra de
 - ⏳ **Barra de progreso dinámica** con `tqdm`
 - 💾 Compatible con **Windows** (probado en Python 3.8+)
 
----
+--
 
 ## 💡 Uso básico
 
@@ -57,7 +57,7 @@ Bienvenido a tu Gestor de Archivos.
 - **Opción 4:** Elimina un archivo tras confirmar  
 - **Opción 5:** Busca archivos, los analiza y escanea con Microsoft Defender  
 
----
+--
 
 ## 🔐 Seguridad
 
@@ -73,7 +73,7 @@ Incluye:
 
 Si un archivo se considera sospechoso, **no se abre ni se edita**, solo se puede eliminar de forma segura.
 
----
+--
 
 ## 🛠️ Estructura del proyecto
 
@@ -84,7 +84,7 @@ Gestor-de-Archivos/
 └── README.md           # Este archivo
 ```
 
----
+--
 
 ## 🧠 Tecnologías utilizadas
 
@@ -93,21 +93,21 @@ Gestor-de-Archivos/
 * Librería externa: `tqdm`
 * Microsoft Defender CLI (opcional)
 
----
+--
 
 ## ⚠️ Aviso
 
 Este programa **no reemplaza un antivirus**.
 Su propósito es **ayudar a encontrar, analizar y eliminar archivos sospechosos** de manera rápida y controlada.
 
----
+--
 
 ## 👨‍💻 Autor
 
 Desarrollado por **[rorro22](https://github.com/rorro22)**
 Proyecto educativo y práctico escrito en Python.
 
----
+--
 
 ## 📄 Licencia
 
@@ -117,7 +117,7 @@ Distribuido bajo la **Licencia MIT** — puedes modificarlo y reutilizarlo con f
 
 </details>
 
----
+--
 
 <details>
 <summary>🇬🇧 English</summary>
@@ -128,7 +128,7 @@ Distribuido bajo la **Licencia MIT** — puedes modificarlo y reutilizarlo con f
 
 It automatically detects available drives, performs exhaustive searches with progress bars, scans files using Microsoft Defender, and applies heuristic analysis to detect potentially malicious files before you open them.
 
----
+--
 
 ## 🚀 Key Features
 
@@ -143,7 +143,7 @@ It automatically detects available drives, performs exhaustive searches with pro
 * ⏳ **Dynamic progress bar** with `tqdm`
 * 💾 Works on **Windows** (tested on Python 3.8+)
 
----
+--
 
 ## 💡 Basic Usage
 
@@ -167,7 +167,7 @@ Welcome to your File Manager.
 * **Option 4:** Deletes a file after confirmation
 * **Option 5:** Searches drives, scans results with heuristics and Microsoft Defender
 
----
+--
 
 ## 🔐 Security
 
@@ -185,7 +185,7 @@ It includes:
 
 If a file is flagged as risky or unverified, it will **not be opened or edited**, only safely deleted.
 
----
+--
 
 ## 🛠️ Project Structure
 
@@ -196,7 +196,7 @@ Gestor-de-Archivos/
 └── README.md           # This file
 ```
 
----
+--
 
 ## 🧠 Technologies Used
 
@@ -205,21 +205,21 @@ Gestor-de-Archivos/
 * External library: `tqdm`
 * Microsoft Defender CLI (optional)
 
----
+--
 
 ## ⚠️ Disclaimer
 
 This project **is not a replacement for an antivirus.**
 Its purpose is to **help users find, inspect, and manage suspicious files** safely.
 
----
+--
 
 ## 👨‍💻 Author
 
 Developed by **[rorro22](https://github.com/rorro22)**
 Practical and educational project written in Python.
 
----
+--
 
 ## 📄 License
 
